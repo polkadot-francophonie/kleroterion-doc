@@ -1,22 +1,23 @@
-Klèrôtèrion
+# Klèrôtèrion
 
 
-# Introduction
+## Introduction
 
 Kleroterion : emblematic machine of antique democracy 
 
-https://www.youtube.com/watch?v=1DhgkqJCIBA
+[Kleroterion - machine that selected the leaders of citizens of Athens](https://www.youtube.com/watch?v=1DhgkqJCIBA)
 
-TODO Translate video subtitle in english  ? : https://youtu.be/bWV8MZ7N90o
+[Le Klèrôtèrion, machine emblématique de la démocratie](https://youtu.be/bWV8MZ7N90o)
+TODO Translate  ADD video subtitle in english  ?
 
-# Actors
+## Actors
 
-# Transactions
+## Transactions
 
-# Sequence diagram, workflow
+## Sequence diagram, workflow
 
-# Blockchain Implemantion choices 
+## Blockchain Implemantion choices 
 
-# Blockchain Implemantion descriptions 
+## Blockchain Implemantion descriptions 
 
 
