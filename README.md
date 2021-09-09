@@ -1,9 +1,7 @@
-# Klèrôtèrion
+# Klèrôtèrion: emblematic machine of antique democracy
 
 
 ## Introduction
-
-Kleroterion : emblematic machine of antique democracy 
 
 [Kleroterion - machine that selected the leaders of citizens of Athens](https://www.youtube.com/watch?v=1DhgkqJCIBA)
 
