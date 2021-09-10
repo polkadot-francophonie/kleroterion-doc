@@ -10,9 +10,12 @@ TODO Translate  ADD video subtitle in english  ?
 
 ## Actors
 
-see : #1
+see : [issue #1](https://github.com/polkadot-francophonie/Kleroterion/issues/1)
 
 ## Models
+
+see : [issue #1](https://github.com/polkadot-francophonie/Kleroterion/issues/1)
+
 
 ## Transactions
 
