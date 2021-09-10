@@ -10,6 +10,8 @@ TODO Translate  ADD video subtitle in english  ?
 
 ## Actors
 
+see : #1
+
 ## Models
 
 ## Transactions
