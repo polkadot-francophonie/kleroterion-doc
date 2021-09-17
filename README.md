@@ -21,6 +21,9 @@ see : [issue #1](https://github.com/polkadot-francophonie/Kleroterion/issues/1)
 
 ## Sequence diagram, workflow
 
+see: [POC_V0.1](https://github.com/polkadot-francophonie/Kleroterion/blob/main/Brainstorming/Kleroterion_V0.1_POC%20-%20Page%201.pdf)
+see: [Brainstorming_Doc] (https://github.com/polkadot-francophonie/Kleroterion/blob/main/Brainstorming/Kleroterion_BrainStorm.vsdx) 
+
 ## Blockchain Implemantion choices 
 
 ## Blockchain Implemantion descriptions 
